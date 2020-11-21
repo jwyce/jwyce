@@ -21,14 +21,13 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />][js]
 [<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][ts]
 [<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />][angular]
-[<img align="left" alt="Angular Material" width="26px" src="https://material.angular.io/assets/img/angular-material-logo.svg" />][angularmaterial]
+[<img align="left" alt="Angular Material" height="26px" src="https://material.angular.io/assets/img/angular-material-logo.svg" />][angularmaterial]
 [<img align="left" alt="NgRx" width="26px" src="https://ngrx.io/assets/images/badge.svg" />][ngrx]
 [<img align="left" alt="RxJs" width="26px" src="https://rxjs-dev.firebaseapp.com/assets/images/favicons/favicon-192x192.png" />][rxjs]
 [<img align="left" alt="Electron" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />][electron]
 [<img align="left" alt="Ionic" width="26px" src="https://ionicframework.com/favicon.ico" />][ionic]
 [<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />][bootstrap]
-<!-- [<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql] -->
-[<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql]
+[<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][https://google.com/]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 [<img align="left" alt="MongoDB" width="26px" src="https://www.mongodb.com/favicon.ico" />][mongodb]
 
@@ -89,6 +88,3 @@
 [java]: https://docs.oracle.com/javase/8/docs/
 [python]: https://www.python.org/
 [tensorflow]: https://www.tensorflow.org/
-
-
-
