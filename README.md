@@ -9,9 +9,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and spend more time on personal projects
 - 🗻 Fun fact: I love Japan and learn Japanese in my free time. 日本大好き。暇で日本語の勉強。
 
-<!-- ### Spotify Playing 🎧
+### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="JWyce Spotify Playing" width="350" />](https://open.spotify.com/user/12169145527) -->
+[<img src="https://jwyce-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12169145527)
 
 
 ### Languages and Tools:
