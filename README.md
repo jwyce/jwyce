@@ -21,7 +21,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />][js]
 [<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][ts]
 [<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />][angular]
-[<img align="left" alt="Angular Material" height="26px" src="https://material.angular.io/assets/img/angular-material-logo.svg" />][angularmaterial]
+[<img align="left" alt="Angular Material" width="26px" src="https://material.angular.io/favicon.ico" />][angularmaterial]
 [<img align="left" alt="NgRx" width="26px" src="https://ngrx.io/assets/images/badge.svg" />][ngrx]
 [<img align="left" alt="RxJs" width="26px" src="https://rxjs-dev.firebaseapp.com/assets/images/favicons/favicon-192x192.png" />][rxjs]
 [<img align="left" alt="Electron" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />][electron]
@@ -32,6 +32,8 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://www.mongodb.com/favicon.ico" />][mongodb]
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][git]
 [<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][asp]
+<br />
+<br />
 [<img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico" />][node]
 [<img align="left" alt="SocketIO" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socket]
 [<img align="left" alt="webpack" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />][webpack]
