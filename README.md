@@ -47,6 +47,7 @@
 [<img align="left" alt="Cmder" height="26px" width="26px" src="https://avatars1.githubusercontent.com/u/11646750?s=400&v=4" />][cmder]
 [<img align="left" alt="Insomnia" height="26px" width="26px" src="https://insomnia.rest/images/twitter-card-icon.png" />][insomnia]
 [<img align="left" alt="Figma" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />][figma]
+[<img align="left" alt="inkscape" height="26px" width="26px" src="https://media.inkscape.org/static/images/inkscape-logo.svg" />][inkscape]
 
 <br />
 <br />
@@ -94,3 +95,4 @@
 [cmder]: https://cmder.net/
 [insomnia]: https://insomnia.rest/
 [figma]: https://figma.com/
+[inkscape]: https://inkscape.org/
