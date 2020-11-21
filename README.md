@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="JWyce Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="JWyce Spotify Playing" width="350" />](https://open.spotify.com/user/12169145527)
 
 
 ### Languages and Tools:
@@ -27,7 +27,7 @@
 [<img align="left" alt="Electron" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />][electron]
 [<img align="left" alt="Ionic" width="26px" src="https://ionicframework.com/favicon.ico" />][ionic]
 [<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />][bootstrap]
-[<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][https://google.com/]
+[<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 [<img align="left" alt="MongoDB" width="26px" src="https://www.mongodb.com/favicon.ico" />][mongodb]
 
@@ -59,7 +59,7 @@
 
 </details>
 
-[wca]: https://www.worldcubeassociation.org/persons/2014WYCE01
+[wca]: https://www.worldcubeassociation.org/persons/2014WYCE01/
 [vscode]: https://code.visualstudio.com/
 [html]: https://www.w3schools.com/html/
 [css]: https://www.w3schools.com/css/
@@ -69,8 +69,8 @@
 [angular]: https://angular.io/docs/
 [angularmaterial]: https://material.angular.io/
 [ngrx]: https://ngrx.io/
-[rxjs]: https://rxjs.dev/guide/overview
-[graqhql]: https://graphql.org/
+[rxjs]: https://rxjs.dev/guide/overview/
+[graphql]: https://graphql.org/
 [postgresql]: https://www.postgresql.org/
 [mongodb]: https://www.mongodb.com/
 [git]: https://github.com/jwyce
