@@ -28,11 +28,15 @@
 [<img align="left" alt="Ionic" width="26px" src="https://ionicframework.com/favicon.ico" />][ionic]
 [<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />][bootstrap]
 <!-- [<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql] -->
+[<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 [<img align="left" alt="MongoDB" width="26px" src="https://www.mongodb.com/favicon.ico" />][mongodb]
 
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][git]
 [<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][asp]
+
+<br />
+
 [<img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico" />][node]
 [<img align="left" alt="SocketIO" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socket]
 [<img align="left" alt="webpack" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />][webpack]
