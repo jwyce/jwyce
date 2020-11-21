@@ -43,8 +43,10 @@
 [<img align="left" alt="Python" height="26px" width="26px" src="https://www.python.org/favicon.ico" />][python]
 [<img align="left" alt="TensorFlow" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][tensorflow]
 
-\nFour
-\nFour
+<br />
+<br />
+<br />
+<br />
 
 ---
 
