@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jwyce&color=blueviolet&label=PROFILE+VIEWS)
 
-- 🌱 I'm currently learning all of the below tools to create my projects 🤣
+- 🌱 I'm currently learning all of the below tools to build my projects 🤣
 - 🧩 I'm a speedcuber. Check out my [WCA profile][wca]
 - 🥅 2021 Goals: Contribute more to Open Source projects and spend more time on personal projects
 - 🗻 Fun fact: I love Japan and learn Japanese in my free time. 日本大好き。暇で日本語の勉強。
