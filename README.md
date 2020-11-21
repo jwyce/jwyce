@@ -7,9 +7,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and spend more time on personal projects
 - 🗻 Fun fact: I love Japan and learn Japanese in my free time. 日本大好き。暇で日本語の勉強。
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="JWyce Spotify Playing" width="350" />](https://open.spotify.com/user/12169145527)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="JWyce Spotify Playing" width="350" />](https://open.spotify.com/user/12169145527) -->
 
 
 ### Languages and Tools:
@@ -30,12 +30,8 @@
 [<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 [<img align="left" alt="MongoDB" width="26px" src="https://www.mongodb.com/favicon.ico" />][mongodb]
-
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][git]
 [<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][asp]
-
-<br />
-
 [<img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico" />][node]
 [<img align="left" alt="SocketIO" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socket]
 [<img align="left" alt="webpack" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />][webpack]
