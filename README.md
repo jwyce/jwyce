@@ -1,6 +1,8 @@
 ## Hey there, I'm Jared Wyce 👋
 
-<h3 align="left">I'm a Full Stack Developer who loves to learn, build, tinker with new technology</h3>
+<h3 align="left">I'm a Full Stack Developer who loves to learn, build, and tinker with new technology</h3>
+
+![](https://komarev.com/ghpvc/?username=jwyce&color=blueviolet&label=PROFILE+VIEWS)
 
 - 🌱 I'm currently learning all of the below tools to create my projects 🤣
 - 🧩 I'm a speedcuber. Check out my [WCA profile][wca]
@@ -53,7 +55,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="JWyce's GitHub Stats" src="https://github-readme-stats.jwyce.vercel.app/api?username=jwyce&show_icons=true&hide_border=true" />
+  <img align="left" alt="JWyce's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jwyce&show_icons=true&hide_border=true" />
 
 </details>
 
