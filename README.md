@@ -41,7 +41,7 @@
 [<img align="left" alt="docker" height="26px" width="26px" src="https://www.docker.com/favicon.ico" />][docker]
 [<img align="left" alt="Unity" height="26px" width="26px" src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" />][unity]
 [<img align="left" alt="C#" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />][c#]
-[<img align="left" alt="Java" height="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />][java]
+[<img align="left" alt="Java" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />][java]
 [<img align="left" alt="Python" height="26px" width="26px" src="https://www.python.org/favicon.ico" />][python]
 [<img align="left" alt="TensorFlow" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][tensorflow]
 [<img align="left" alt="Cmder" height="26px" width="26px" src="https://avatars1.githubusercontent.com/u/11646750?s=400&v=4" />][cmder]
