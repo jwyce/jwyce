@@ -1,6 +1,6 @@
-### Hey there, I'm Jared Wyce 👋
+## Hey there, I'm Jared Wyce 👋
 
-## I'm a Full Stack Developer who loves to learn, build, tinker with new technology
+<h3 align="left">I'm a Full Stack Developer who loves to learn, build, tinker with new technology</h3>
 
 - 🌱 I'm currently learning all of the below tools to create my projects 🤣
 - 🧩 I'm a speedcuber. Check out my [WCA profile][wca]
@@ -27,15 +27,16 @@
 [<img align="left" alt="Electron" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />][electron]
 [<img align="left" alt="Ionic" width="26px" src="https://ionicframework.com/favicon.ico" />][ionic]
 [<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />][bootstrap]
-[<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql]
+<!-- [<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql] -->
 [<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 [<img align="left" alt="MongoDB" width="26px" src="https://www.mongodb.com/favicon.ico" />][mongodb]
+
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][git]
 [<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][asp]
 [<img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico" />][node]
 [<img align="left" alt="SocketIO" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socket]
 [<img align="left" alt="webpack" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />][webpack]
-[<img align="left" alt="aws" width="26px" src="https://aws.amazon.com/favicon.ico" />][aws]
+[<img align="left" alt="aws" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />][aws]
 [<img align="left" alt="docker" width="26px" src="https://www.docker.com/favicon.ico" />][docker]
 [<img align="left" alt="Unity" width="26px" src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" />][unity]
 [<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />][c#]
