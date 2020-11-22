@@ -37,7 +37,7 @@
 [<img align="left" alt="Node.js" height="26px" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico" />][node]
 [<img align="left" alt="SocketIO" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socket]
 [<img align="left" alt="webpack" height="26px" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />][webpack]
-[<img align="left" alt="aws" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />][aws]
+[<img align="left" alt="aws" height="26px" width="26px" src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png" />][aws]
 [<img align="left" alt="docker" height="26px" width="26px" src="https://www.docker.com/favicon.ico" />][docker]
 [<img align="left" alt="Unity" height="26px" width="26px" src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" />][unity]
 [<img align="left" alt="C#" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />][c#]
