@@ -22,7 +22,7 @@
 [<img align="left" alt="Sass" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" />][sass]
 [<img align="left" alt="JavaScript" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />][js]
 [<img align="left" alt="TypeScript" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][ts]
-[<img align="left" alt="Angular" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />][angular]
+[<img align="left" alt="Angular" height="26px" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_angular.svg" />][angular]
 [<img align="left" alt="Angular Material" height="26px" width="26px" src="https://material.angular.io/favicon.ico" />][angularmaterial]
 [<img align="left" alt="NgRx" height="26px" width="26px" src="https://ngrx.io/assets/images/badge.svg" />][ngrx]
 [<img align="left" alt="RxJs" height="26px" width="26px" src="https://rxjs-dev.firebaseapp.com/assets/images/favicons/favicon-192x192.png" />][rxjs]
