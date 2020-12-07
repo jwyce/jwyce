@@ -26,7 +26,7 @@
 [<img align="left" alt="Angular Material" height="26px" width="26px" src="https://material.angular.io/favicon.ico" />][angularmaterial]
 [<img align="left" alt="NgRx" height="26px" width="26px" src="https://ngrx.io/assets/images/badge.svg" />][ngrx]
 [<img align="left" alt="RxJs" height="26px" width="26px" src="https://rxjs-dev.firebaseapp.com/assets/images/favicons/favicon-192x192.png" />][rxjs]
-[<img align="left" alt="Electron" height="26px" width="26px" src="https://www.electronjs.org/images/electron-icon.png" />][electron]
+[<img align="left" alt="Electron" height="26px" width="26px" src="https://www.electronjs.org//images/favicon.ico" />][electron]
 [<img align="left" alt="Ionic" height="26px" width="26px" src="https://ionicframework.com/img/meta/favicon-96x96.png" />][ionic]
 [<img align="left" alt="Bootstrap" height="26px" width="26px" src="https://getbootstrap.com/favicon.ico" />][bootstrap]
 [<img align="left" alt="GraphQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql]
