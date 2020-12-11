@@ -32,7 +32,7 @@
 [<img align="left" alt="GraphQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql]
 [<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 [<img align="left" alt="MongoDB" height="26px" width="26px" src="https://www.mongodb.com/favicon.ico" />][mongodb]
-[<img align="left" alt="GitHub" height="26px" width="26px" src="https://github.com/fluidicon.png" />][git]
+[<img align="left" alt="GitHub" height="26px" width="26px" src="https://git-scm.com/favicon.ico" />][git]
 [<img align="left" alt=".NET" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][asp]
 [<img align="left" alt="Node.js" height="26px" width="26px" src="https://nodejs.org/static/images/favicons/favicon-32x32.png" />][node]
 [<img align="left" alt="SocketIO" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socket]
@@ -77,7 +77,7 @@
 [graphql]: https://graphql.org/
 [postgresql]: https://www.postgresql.org/
 [mongodb]: https://www.mongodb.com/
-[git]: https://github.com/jwyce
+[git]: https://git-scm.com/
 [node]: https://nodejs.org/en/docs/
 [webpack]: https://webpack.js.org/
 [aws]: https://aws.amazon.com/
