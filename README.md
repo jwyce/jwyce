@@ -22,6 +22,7 @@
 [<img align="left" alt="Sass" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" />][sass]
 [<img align="left" alt="JavaScript" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />][js]
 [<img align="left" alt="TypeScript" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][ts]
+[<img align="left" alt="Vue" height="26px" width="26px" src="https://vuejs.org/images/icons/apple-icon-180x180.png" />][vue]
 [<img align="left" alt="Angular" height="26px" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_angular.svg" />][angular]
 [<img align="left" alt="Angular Material" height="26px" width="26px" src="https://material.angular.io/favicon.ico" />][angularmaterial]
 [<img align="left" alt="NgRx" height="26px" width="26px" src="https://ngrx.io/assets/images/badge.svg" />][ngrx]
@@ -70,6 +71,7 @@
 [sass]: https://sass-lang.com/
 [js]: https://www.w3schools.com/js/
 [ts]: https://www.typescriptlang.org/
+[vue]: https://vuejs.org/
 [angular]: https://angular.io/docs/
 [angularmaterial]: https://material.angular.io/
 [ngrx]: https://ngrx.io/
