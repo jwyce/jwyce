@@ -19,16 +19,11 @@
 [<img align="left" alt="Visual Studio Code" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
 [<img align="left" alt="HTML5" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />][html]
 [<img align="left" alt="CSS3" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" />][css]
-[<img align="left" alt="Sass" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" />][sass]
 [<img align="left" alt="JavaScript" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />][js]
 [<img align="left" alt="TypeScript" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][ts]
-[<img align="left" alt="Vue" height="26px" width="26px" src="https://vuejs.org/images/icons/apple-icon-180x180.png" />][vue]
+[<img align="left" alt="Vue" height="26px" width="26px" src="https://reactjs.org/favicon.ico" />][react]
 [<img align="left" alt="Angular" height="26px" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_angular.svg" />][angular]
-[<img align="left" alt="Angular Material" height="26px" width="26px" src="https://material.angular.io/favicon.ico" />][angularmaterial]
-[<img align="left" alt="NgRx" height="26px" width="26px" src="https://ngrx.io/assets/images/badge.svg" />][ngrx]
-[<img align="left" alt="RxJs" height="26px" width="26px" src="https://rxjs-dev.firebaseapp.com/assets/images/favicons/favicon-192x192.png" />][rxjs]
 [<img align="left" alt="Electron" height="26px" width="26px" src="https://www.electronjs.org//images/favicon.ico" />][electron]
-[<img align="left" alt="Ionic" height="26px" width="26px" src="https://ionicframework.com/img/meta/favicon-96x96.png" />][ionic]
 [<img align="left" alt="Bootstrap" height="26px" width="26px" src="https://getbootstrap.com/favicon.ico" />][bootstrap]
 [<img align="left" alt="GraphQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql]
 [<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
@@ -52,8 +47,6 @@
 
 <br />
 <br />
-<br />
-<br />
 
 ---
 
@@ -68,14 +61,10 @@
 [vscode]: https://code.visualstudio.com/
 [html]: https://www.w3schools.com/html/
 [css]: https://www.w3schools.com/css/
-[sass]: https://sass-lang.com/
 [js]: https://www.w3schools.com/js/
 [ts]: https://www.typescriptlang.org/
-[vue]: https://vuejs.org/
+[react]: https://reactjs.org/
 [angular]: https://angular.io/docs/
-[angularmaterial]: https://material.angular.io/
-[ngrx]: https://ngrx.io/
-[rxjs]: https://rxjs.dev/guide/overview/
 [graphql]: https://graphql.org/
 [postgresql]: https://www.postgresql.org/
 [mongodb]: https://www.mongodb.com/
