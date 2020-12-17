@@ -30,7 +30,7 @@
 [<img align="left" alt="MongoDB" height="26px" width="26px" src="https://www.mongodb.com/favicon.ico" />][mongodb]
 [<img align="left" alt="Redis" height="26px" width="26px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />][redis]
 [<img align="left" alt=".NET" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][asp]
-[<img align="left" alt="Node.js" height="26px" width="26px" src="https://nodejs.org/static/images/favicons/favicon-32x32.png" />][node]
+[<img align="left" alt="Node.js" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
 [<img align="left" alt="SocketIO" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socket]
 [<img align="left" alt="webpack" height="26px" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />][webpack]
 [<img align="left" alt="aws" height="26px" width="26px" src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png" />][aws]
@@ -41,7 +41,7 @@
 [<img align="left" alt="Python" height="26px" width="26px" src="https://www.python.org/favicon.ico" />][python]
 [<img align="left" alt="TensorFlow" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][tensorflow]
 [<img align="left" alt="GitHub" height="26px" width="26px" src="https://git-scm.com/favicon.ico" />][git]
-[<img align="left" alt="Insomnia" height="26px" width="26px" src="https://insomnia.rest/icons-16bbda05b237ae360d3df0d55e40721d/favicon.ico" />][insomnia]
+[<img align="left" alt="Terminlal" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="Figma" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />][figma]
 [<img align="left" alt="inkscape" height="26px" width="26px" src="https://media.inkscape.org/static/images/inkscape-logo.svg" />][inkscape]
 
@@ -84,6 +84,6 @@
 [python]: https://www.python.org/
 [tensorflow]: https://www.tensorflow.org/
 [redis]: https://redis.io/
-[insomnia]: https://insomnia.rest/
+[terminal]: https://cmder.net/
 [figma]: https://figma.com/
 [inkscape]: https://inkscape.org/
