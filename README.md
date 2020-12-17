@@ -21,14 +21,14 @@
 [<img align="left" alt="CSS3" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />][js]
 [<img align="left" alt="TypeScript" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][ts]
-[<img align="left" alt="Vue" height="26px" width="26px" src="https://reactjs.org/favicon.ico" />][react]
+[<img align="left" alt="React" height="26px" width="26px" src="https://reactjs.org/favicon.ico" />][react]
 [<img align="left" alt="Angular" height="26px" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_angular.svg" />][angular]
 [<img align="left" alt="Electron" height="26px" width="26px" src="https://www.electronjs.org//images/favicon.ico" />][electron]
 [<img align="left" alt="Bootstrap" height="26px" width="26px" src="https://getbootstrap.com/favicon.ico" />][bootstrap]
 [<img align="left" alt="GraphQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql]
 [<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 [<img align="left" alt="MongoDB" height="26px" width="26px" src="https://www.mongodb.com/favicon.ico" />][mongodb]
-[<img align="left" alt="GitHub" height="26px" width="26px" src="https://git-scm.com/favicon.ico" />][git]
+[<img align="left" alt="Redis" height="26px" width="26px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />][redis]
 [<img align="left" alt=".NET" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][asp]
 [<img align="left" alt="Node.js" height="26px" width="26px" src="https://nodejs.org/static/images/favicons/favicon-32x32.png" />][node]
 [<img align="left" alt="SocketIO" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socket]
@@ -40,7 +40,7 @@
 [<img align="left" alt="Java" height="26px" width="26px" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" />][java]
 [<img align="left" alt="Python" height="26px" width="26px" src="https://www.python.org/favicon.ico" />][python]
 [<img align="left" alt="TensorFlow" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][tensorflow]
-[<img align="left" alt="Cmder" height="26px" width="26px" src="https://avatars1.githubusercontent.com/u/11646750?s=400&v=4" />][cmder]
+[<img align="left" alt="GitHub" height="26px" width="26px" src="https://git-scm.com/favicon.ico" />][git]
 [<img align="left" alt="Insomnia" height="26px" width="26px" src="https://insomnia.rest/icons-16bbda05b237ae360d3df0d55e40721d/favicon.ico" />][insomnia]
 [<img align="left" alt="Figma" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />][figma]
 [<img align="left" alt="inkscape" height="26px" width="26px" src="https://media.inkscape.org/static/images/inkscape-logo.svg" />][inkscape]
@@ -83,7 +83,7 @@
 [java]: https://docs.oracle.com/javase/8/docs/
 [python]: https://www.python.org/
 [tensorflow]: https://www.tensorflow.org/
-[cmder]: https://cmder.net/
+[redis]: https://redis.io/
 [insomnia]: https://insomnia.rest/
 [figma]: https://figma.com/
 [inkscape]: https://inkscape.org/
