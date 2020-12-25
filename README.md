@@ -27,7 +27,7 @@
 [<img align="left" alt="Bootstrap" height="26px" width="26px" src="https://getbootstrap.com/favicon.ico" />][bootstrap]
 [<img align="left" alt="GraphQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql]
 [<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
-[<img align="left" alt="MongoDB" height="26px" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][mongodb]
+[<img align="left" alt="Nextjs" height="26px" width="26px" src="https://nextjs.org/static/favicon/favicon-32x32.png" />][nextjs]
 [<img align="left" alt="Redis" height="26px" width="26px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />][redis]
 [<img align="left" alt=".NET" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][asp]
 [<img align="left" alt="Node.js" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
@@ -68,7 +68,7 @@
 [vim]: https://www.vim.org/
 [graphql]: https://graphql.org/
 [postgresql]: https://www.postgresql.org/
-[mongodb]: https://www.mongodb.com/
+[nextjs]: https://nextjs.org/
 [git]: https://git-scm.com/
 [node]: https://nodejs.org/en/docs/
 [webpack]: https://webpack.js.org/
