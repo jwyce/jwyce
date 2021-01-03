@@ -24,6 +24,7 @@
 [<img align="left" alt="React" height="26px" width="26px" src="https://reactjs.org/favicon.ico" />][react]
 [<img align="left" alt="VIM" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />][vim]
 [<img align="left" alt="Electron" height="26px" width="26px" src="https://www.electronjs.org//images/favicon.ico" />][electron]
+[<img align="left" alt="Apollo" height="26px" width="26px" style="border-radius: 5px" src="https://avatars0.githubusercontent.com/u/17189275?s=400&v=4" />][apollo]
 [<img align="left" alt="GraphQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql]
 [<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 [<img align="left" alt="Redis" height="26px" width="26px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />][redis]
@@ -34,12 +35,14 @@
 [<img align="left" alt="aws" height="26px" width="26px" src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png" />][aws]
 [<img align="left" alt="docker" height="26px" width="26px" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" />][docker]
 [<img align="left" alt="Unity" height="26px" width="26px" src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" />][unity]
-[<img align="left" alt="TensorFlow" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][tensorflow]
 [<img align="left" alt="C#" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />][c#]
 [<img align="left" alt="Python" height="26px" width="26px" src="https://www.python.org/favicon.ico" />][python]
 [<img align="left" alt="Java" height="26px" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" />][java]
-[<img align="left" alt="GitHub" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_git.svg" />][git]
+[<img align="left" alt="TensorFlow" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][tensorflow]
+[<img align="left" alt="Git" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_git.svg" />][git]
 [<img align="left" alt="Terminlal" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="Figma" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />][figma]
+[<img align="left" alt="inkscape" height="26px" width="26px" src="https://media.inkscape.org/static/images/inkscape-logo.svg" />][inkscape]
 
 <br />
 <br />
@@ -63,7 +66,6 @@
 [vim]: https://www.vim.org/
 [graphql]: https://graphql.org/
 [postgresql]: https://www.postgresql.org/
-[nextjs]: https://nextjs.org/
 [git]: https://git-scm.com/
 [node]: https://nodejs.org/en/docs/
 [webpack]: https://webpack.js.org/
@@ -71,7 +73,6 @@
 [docker]: https://www.docker.com/
 [electron]: https://www.electronjs.org/
 [ionic]: https://ionicframework.com/
-[bootstrap]: https://getbootstrap.com/
 [unity]: https://unity.com/
 [asp]: https://dotnet.microsoft.com/
 [socket]: https://socket.io/
@@ -83,3 +84,4 @@
 [terminal]: https://cmder.net/
 [figma]: https://figma.com/
 [inkscape]: https://inkscape.org/
+[apollo]: https://www.apollographql.com/docs/
