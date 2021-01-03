@@ -37,7 +37,7 @@
 [<img align="left" alt="docker" height="26px" width="26px" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" />][docker]
 [<img align="left" alt="Unity" height="26px" width="26px" src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" />][unity]
 [<img align="left" alt="C#" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />][c#]
-[<img align="left" alt="Java" height="26px" width="26px" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" />][java]
+[<img align="left" alt="Java" height="26px" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" />][java]
 [<img align="left" alt="Python" height="26px" width="26px" src="https://www.python.org/favicon.ico" />][python]
 [<img align="left" alt="TensorFlow" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][tensorflow]
 [<img align="left" alt="GitHub" height="26px" width="26px" src="https://git-scm.com/favicon.ico" />][git]
