@@ -34,11 +34,11 @@
 [<img align="left" alt="aws" height="26px" width="26px" src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png" />][aws]
 [<img align="left" alt="docker" height="26px" width="26px" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" />][docker]
 [<img align="left" alt="Unity" height="26px" width="26px" src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" />][unity]
-[<img align="left" alt="C#" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />][c#]
-[<img align="left" alt="Java" height="26px" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" />][java]
-[<img align="left" alt="Python" height="26px" width="26px" src="https://www.python.org/favicon.ico" />][python]
 [<img align="left" alt="TensorFlow" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][tensorflow]
-[<img align="left" alt="GitHub" height="26px" width="26px" src="https://git-scm.com/favicon.ico" />][git]
+[<img align="left" alt="C#" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />][c#]
+[<img align="left" alt="Python" height="26px" width="26px" src="https://www.python.org/favicon.ico" />][python]
+[<img align="left" alt="Java" height="26px" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" />][java]
+[<img align="left" alt="GitHub" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_git.svg" />][git]
 [<img align="left" alt="Terminlal" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
 <br />
