@@ -24,7 +24,7 @@
 [<img align="left" alt="React" height="26px" width="26px" src="https://reactjs.org/favicon.ico" />][react]
 [<img align="left" alt="VIM" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />][vim]
 [<img align="left" alt="Electron" height="26px" width="26px" src="https://www.electronjs.org//images/favicon.ico" />][electron]
-[<img align="left" alt="Apollo" height="26px" width="26px" style="border-radius: 5px" src="https://avatars0.githubusercontent.com/u/17189275?s=400&v=4" />][apollo]
+[<img align="left" alt="Apollo" height="26px" width="26px" src="https://img.icons8.com/color/452/apollo.png">][apollo]
 [<img align="left" alt="GraphQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql]
 [<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 [<img align="left" alt="Redis" height="26px" width="26px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />][redis]
