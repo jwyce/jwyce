@@ -23,7 +23,7 @@
 [<img align="left" alt="TypeScript" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][ts]
 [<img align="left" alt="React" height="26px" width="26px" src="https://reactjs.org/favicon.ico" />][react]
 [<img align="left" alt="VIM" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />][vim]
-[<img align="left" alt="Electron" height="26px" width="26px" src="https://www.electronjs.org//images/favicon.ico" />][electron]
+[<img align="left" alt="Electron" height="26px" width="26px" src="https://www.electronjs.org/images/electron-icon.png">][electron]
 [<img align="left" alt="Apollo" height="26px" width="26px" src="https://img.icons8.com/color/452/apollo.png">][apollo]
 [<img align="left" alt="GraphQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql]
 [<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
