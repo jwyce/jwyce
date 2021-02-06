@@ -23,8 +23,8 @@
 [<img align="left" alt="TypeScript" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][ts]
 [<img align="left" alt="React" height="26px" width="26px" src="https://reactjs.org/favicon.ico" />][react]
 [<img align="left" alt="VIM" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />][vim]
-[<img align="left" alt="Electron" height="26px" width="26px" src="https://www.electronjs.org/images/electron-icon.png">][electron]
-[<img align="left" alt="Apollo" height="26px" width="26px" src="https://img.icons8.com/color/452/apollo.png">][apollo]
+[<img align="left" alt="Nextjs" height="26px" width="26px" src="https://nextjs.org/static/favicon/favicon-32x32.png">][nextjs]
+[<img align="left" alt="Electron" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg">][electron]
 [<img align="left" alt="GraphQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][graphql]
 [<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 [<img align="left" alt="Redis" height="26px" width="26px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />][redis]
@@ -37,7 +37,7 @@
 [<img align="left" alt="Unity" height="26px" width="26px" src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" />][unity]
 [<img align="left" alt="C#" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />][c#]
 [<img align="left" alt="Python" height="26px" width="26px" src="https://www.python.org/favicon.ico" />][python]
-[<img align="left" alt="Java" height="26px" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" />][java]
+[<img align="left" alt="Java" height="26px" width="26px" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" />][java]
 [<img align="left" alt="TensorFlow" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][tensorflow]
 [<img align="left" alt="Git" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_git.svg" />][git]
 [<img align="left" alt="Terminlal" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
@@ -81,7 +81,7 @@
 [python]: https://www.python.org/
 [tensorflow]: https://www.tensorflow.org/
 [redis]: https://redis.io/
-[terminal]: https://cmder.net/
+[terminal]: https://fishshell.com/
 [figma]: https://figma.com/
 [inkscape]: https://inkscape.org/
-[apollo]: https://www.apollographql.com/docs/
+[nextjs]: https://nextjs.org/
