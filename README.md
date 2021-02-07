@@ -37,7 +37,7 @@
 [<img align="left" alt="Unity" height="26px" width="26px" src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" />][unity]
 [<img align="left" alt="C#" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />][c#]
 [<img align="left" alt="Python" height="26px" width="26px" src="https://www.python.org/favicon.ico" />][python]
-[<img align="left" alt="Java" height="26px" width="26px" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" />][java]
+[<img align="left" alt="Java" height="26px" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />][java]
 [<img align="left" alt="TensorFlow" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][tensorflow]
 [<img align="left" alt="Git" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_git.svg" />][git]
 [<img align="left" alt="Terminlal" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
