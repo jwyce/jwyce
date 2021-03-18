@@ -22,17 +22,17 @@
 [<img align="left" alt="JavaScript" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_js_official.svg" />][js]
 [<img align="left" alt="TypeScript" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_typescript_official.svg" />][ts]
 [<img align="left" alt="React" height="26px" width="26px" src="https://reactjs.org/favicon.ico" />][react]
-[<img align="left" alt="VIM" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_vim.svg" />][vim]
+[<img align="left" alt="VIM" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />][vim]
 [<img align="left" alt="Nextjs" height="26px" width="26px" src="https://nextjs.org/static/favicon/favicon.ico">][nextjs]
 [<img align="left" alt="Electron" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg">][electron]
 [<img align="left" alt="React Native" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_reactts.svg" />][reactnative]
 [<img align="left" alt="GraphQL" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_graphql.svg" />][graphql]
-[<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_pgsql.svg" />][postgresql]
+[<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 [<img align="left" alt="Redis" height="26px" width="26px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />][redis]
 [<img align="left" alt=".NET" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][asp]
 [<img align="left" alt="Node.js" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_node.svg" />][node]
 [<img align="left" alt="SocketIO" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socket]
-[<img align="left" alt="webpack" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_webpack.svg" />][webpack]
+[<img align="left" alt="webpack" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_firebase.svg" />][firebase]
 [<img align="left" alt="aws" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_aws.svg" />][aws]
 [<img align="left" alt="docker" height="26px" width="26px" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" />][docker]
 [<img align="left" alt="Unity" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_shaderlab.svg" />][unity]
@@ -69,7 +69,7 @@
 [postgresql]: https://www.postgresql.org/
 [git]: https://git-scm.com/
 [node]: https://nodejs.org/en/docs/
-[webpack]: https://webpack.js.org/
+[firebase]: https://firebase.google.com/
 [aws]: https://aws.amazon.com/
 [docker]: https://www.docker.com/
 [electron]: https://www.electronjs.org/
