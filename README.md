@@ -33,7 +33,7 @@
 [<img align="left" alt="Node.js" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_node.svg" />][node]
 [<img align="left" alt="SocketIO" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socket]
 [<img align="left" alt="webpack" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_firebase.svg" />][firebase]
-[<img align="left" alt="aws" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_aws.svg" />][aws]
+[<img align="left" alt="aws" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_netlify.svg" />][netlify]
 [<img align="left" alt="docker" height="26px" width="26px" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" />][docker]
 [<img align="left" alt="Unity" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_shaderlab.svg" />][unity]
 [<img align="left" alt="C#" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_csharp2.svg" />][c#]
@@ -70,7 +70,7 @@
 [git]: https://git-scm.com/
 [node]: https://nodejs.org/en/docs/
 [firebase]: https://firebase.google.com/
-[aws]: https://aws.amazon.com/
+[netlify]: https://www.netlify.com/
 [docker]: https://www.docker.com/
 [electron]: https://www.electronjs.org/
 [ionic]: https://ionicframework.com/
