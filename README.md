@@ -1,10 +1,10 @@
 ## Hey there, I'm Jared Wyce 👋
 
-<h3 align="left">I'm a Full Stack Developer who loves to learn, build, and tinker with new technology</h3>
+<h3 align="left">I'm a Full Stack Developer who loves to learn, build, and tinker with technology</h3>
 
 ![](https://komarev.com/ghpvc/?username=jwyce&color=blueviolet&label=PROFILE+VIEWS)
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning React Native
 - 🧩 I'm a speedcuber. Check out my [WCA profile][wca]
 - 🥅 2021 Goals: Contribute more to Open Source and spend more time on personal projects
 - 🗻 Fun fact: I love Japan and learn Japanese in my free time. 日本大好き。暇で日本語の勉強。
@@ -27,6 +27,7 @@
 [<img align="left" alt="Electron" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg">][electron]
 [<img align="left" alt="React Native" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_reactts.svg" />][reactnative]
 [<img align="left" alt="GraphQL" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_graphql.svg" />][graphql]
+[<img align="left" alt="Redux" height="26px" width="26px" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" />][redux]
 [<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 [<img align="left" alt="Redis" height="26px" width="26px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />][redis]
 [<img align="left" alt=".NET" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][asp]
@@ -39,7 +40,6 @@
 [<img align="left" alt="C#" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_csharp2.svg" />][c#]
 [<img align="left" alt="Python" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_python.svg" />][python]
 [<img align="left" alt="Java" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_jar.svg" />][java]
-[<img align="left" alt="TensorFlow" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][tensorflow]
 [<img align="left" alt="Git" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_git.svg" />][git]
 [<img align="left" alt="Terminlal" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="Figma" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />][figma]
@@ -80,7 +80,7 @@
 [c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [java]: https://docs.oracle.com/javase/8/docs/
 [python]: https://www.python.org/
-[tensorflow]: https://www.tensorflow.org/
+[redux]: https://redux.js.org/
 [redis]: https://redis.io/
 [terminal]: https://fishshell.com/
 [figma]: https://figma.com/
