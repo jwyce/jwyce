@@ -59,9 +59,9 @@
 
 [wca]: https://www.worldcubeassociation.org/persons/2014WYCE01/
 [vscode]: https://code.visualstudio.com/
-[html]: https://www.w3schools.com/html/
-[css]: https://www.w3schools.com/css/
-[js]: https://www.w3schools.com/js/
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 [ts]: https://www.typescriptlang.org/
 [react]: https://reactjs.org/
 [vim]: https://www.vim.org/
