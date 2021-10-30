@@ -33,14 +33,14 @@
 [<img align="left" alt=".NET" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][asp]
 [<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 [<img align="left" alt="Redis" height="26px" width="26px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />][redis]
-[<img align="left" alt="aws" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_aws.svg" />][aws]
 [<img align="left" alt="digitalocean" height="26px" width="26px" src="https://www.digitalocean.com/favicon.ico" />][digitalocean]
+[<img align="left" alt="aws" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_aws.svg" />][aws]
 [<img align="left" alt="netlify" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_netlify.svg" />][netlify]
 [<img align="left" alt="docker" height="26px" width="26px" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" />][docker]
 [<img align="left" alt="Unity" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_shaderlab.svg" />][unity]
 [<img align="left" alt="C#" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_csharp2.svg" />][c#]
 [<img align="left" alt="Python" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_python.svg" />][python]
-[<img align="left" alt="Java" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_jar.svg" />][java]
+[<img align="left" alt="CircleCI" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_circleci.svg" />][circleci]
 [<img align="left" alt="Git" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_git.svg" />][git]
 [<img align="left" alt="Terminlal" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="Figma" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />][figma]
@@ -78,7 +78,7 @@
 [asp]: https://dotnet.microsoft.com/
 [socket]: https://socket.io/
 [c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
-[java]: https://docs.oracle.com/javase/8/docs/
+[circleci]: https://circleci.com/
 [python]: https://www.python.org/
 [redux]: https://redux-toolkit.js.org/
 [redis]: https://redis.io/
