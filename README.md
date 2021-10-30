@@ -28,13 +28,14 @@
 [<img align="left" alt="React Native" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_reactts.svg" />][reactnative]
 [<img align="left" alt="GraphQL" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_graphql.svg" />][graphql]
 [<img align="left" alt="Redux" height="26px" width="26px" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" />][redux]
-[<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
-[<img align="left" alt="Redis" height="26px" width="26px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />][redis]
-[<img align="left" alt=".NET" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][asp]
 [<img align="left" alt="Node.js" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_node.svg" />][node]
 [<img align="left" alt="SocketIO" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socket]
-[<img align="left" alt="webpack" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_firebase.svg" />][firebase]
-[<img align="left" alt="aws" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_netlify.svg" />][netlify]
+[<img align="left" alt=".NET" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][asp]
+[<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
+[<img align="left" alt="Redis" height="26px" width="26px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />][redis]
+[<img align="left" alt="aws" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_aws.svg" />][aws]
+[<img align="left" alt="digitalocean" height="26px" width="26px" src="https://www.digitalocean.com/favicon.ico" />][digitalocean]
+[<img align="left" alt="netlify" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_netlify.svg" />][netlify]
 [<img align="left" alt="docker" height="26px" width="26px" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" />][docker]
 [<img align="left" alt="Unity" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_shaderlab.svg" />][unity]
 [<img align="left" alt="C#" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_csharp2.svg" />][c#]
@@ -43,7 +44,6 @@
 [<img align="left" alt="Git" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_git.svg" />][git]
 [<img align="left" alt="Terminlal" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="Figma" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />][figma]
-[<img align="left" alt="inkscape" height="26px" width="26px" src="https://media.inkscape.org/static/images/inkscape-logo.svg" />][inkscape]
 
 <br />
 <br />
@@ -69,7 +69,7 @@
 [postgresql]: https://www.postgresql.org/
 [git]: https://git-scm.com/
 [node]: https://nodejs.org/en/docs/
-[firebase]: https://firebase.google.com/
+[digitalocean]: https://www.digitalocean.com/
 [netlify]: https://www.netlify.com/
 [docker]: https://www.docker.com/
 [electron]: https://www.electronjs.org/
@@ -80,10 +80,11 @@
 [c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [java]: https://docs.oracle.com/javase/8/docs/
 [python]: https://www.python.org/
-[redux]: https://redux.js.org/
+[redux]: https://redux-toolkit.js.org/
 [redis]: https://redis.io/
 [terminal]: https://fishshell.com/
 [figma]: https://figma.com/
 [inkscape]: https://inkscape.org/
 [nextjs]: https://nextjs.org/
 [reactnative]: https://reactnative.dev/
+[aws]: https://aws.amazon.com/
