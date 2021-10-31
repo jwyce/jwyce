@@ -23,7 +23,7 @@
 [<img align="left" alt="React" height="26px" width="26px" src="https://reactjs.org/favicon.ico" />][react]
 [<img align="left" alt="VIM" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />][vim]
 [<img align="left" alt="Nextjs" height="26px" width="26px" src="https://nextjs.org/static/favicon/favicon.ico">][nextjs]
-[<img align="left" alt="Electron" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg">][electron]
+[<img align="left" alt="Electron" height="26px" width="26px" src="https://www.electronjs.org/images/favicon.b7a59262df48d6563400baf5671da548.ico">][electron]
 [<img align="left" alt="React Native" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_reactts.svg" />][reactnative]
 [<img align="left" alt="GraphQL" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_graphql.svg" />][graphql]
 [<img align="left" alt="Redux" height="26px" width="26px" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" />][redux]
