@@ -27,7 +27,7 @@
 [<img align="left" alt="Node.js" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_node.svg" />][node]
 [<img align="left" alt="VIM" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />][vim]
 [<img align="left" alt="Nextjs" height="26px" width="26px" src="https://nextjs.org/static/favicon/favicon.ico">][nextjs]
-[<img align="left" alt="Electron" height="26px" width="26px" src="https://www.electronjs.org/images/favicon.b7a59262df48d6563400baf5671da548.ico">][electron]
+[<img align="left" alt="Nestjs" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_nestjs.svg">][nestjs]
 [<img align="left" alt="SocketIO" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socket]
 [<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 [<img align="left" alt="Redis" height="26px" width="26px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />][redis]
@@ -92,3 +92,4 @@
 [dart]: https://dart.dev/
 [elixir]: https://elixir-lang.org/
 [golang]: https://go.dev/
+[nestjs]: https://nestjs.com/
