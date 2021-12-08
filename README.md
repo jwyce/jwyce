@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=jwyce&color=blueviolet&label=PROFILE+VIEWS)
 
 - 🌱 I’m currently learning Flutter and Elixir
-- 🥅 2022 Goals: Contribute more to the Open Source community and spend more time on personal projects
+- 🥅 2022 Goals: Contribute more to the open source community and spend more time on personal projects
 - 🗻 Fun fact: I'm super interested in Japanese culture and enjoy learning the language. 日本が興味深いだよ。
 
 ### Spotify Playing 🎧
