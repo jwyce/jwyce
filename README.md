@@ -1,4 +1,4 @@
-## Hey there, I'm Jared Wyce 👋
+## Hey there, I'm Jared 👋
 
 <h3 align="left">I'm a Full Stack Developer who loves React.js and GraphQL</h3>
 
