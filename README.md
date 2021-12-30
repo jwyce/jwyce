@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jwyce&color=blueviolet&label=PROFILE+VIEWS)
 
-- 🌱 I’m currently learning Flutter and Elixir
+- 🌱 I’m currently learning Elixir
 - 🥅 2022 Goals: Contribute more to the open source community and spend more time on personal projects
 - 🗻 Fun fact: I'm super interested in Japanese culture and enjoy learning the language. 日本が興味深いだよ。
 
@@ -34,8 +34,6 @@
 [<img align="left" alt="aws" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_aws.svg" />][aws]
 [<img align="left" alt="netlify" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_netlify.svg" />][netlify]
 [<img align="left" alt="docker" height="26px" width="26px" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" />][docker]
-[<img align="left" alt="flutter" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_flutter.svg" />][flutter]
-[<img align="left" alt="dart" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_dartlang.svg" />][dart]
 [<img align="left" alt="golang" height="26px" width="26px" src="https://go.dev/favicon.ico" />][golang]
 [<img align="left" alt="elixir" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_elixir.svg" />][elixir]
 [<img align="left" alt=".NET" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][asp]
@@ -88,8 +86,6 @@
 [nextjs]: https://nextjs.org/
 [reactnative]: https://reactnative.dev/
 [aws]: https://aws.amazon.com/
-[flutter]: https://flutter.dev/
-[dart]: https://dart.dev/
 [elixir]: https://elixir-lang.org/
 [golang]: https://go.dev/
 [nestjs]: https://nestjs.com/
