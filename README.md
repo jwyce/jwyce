@@ -2,8 +2,6 @@
 
 <h3 align="left">I'm a Full Stack Developer who loves React.js and GraphQL</h3>
 
-![](https://komarev.com/ghpvc/?username=jwyce&color=blueviolet&label=PROFILE+VIEWS)
-
 - 🌱 I’m currently learning Elixir
 - 🥅 2022 Goals: Contribute more to the open source community and spend more time on personal projects
 - 🗻 Fun fact: I'm super interested in Japanese culture and enjoy learning the language. 日本が興味深いだよ。
