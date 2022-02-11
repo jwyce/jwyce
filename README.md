@@ -29,9 +29,9 @@
 [<img align="left" alt="nextui" height="26px" width="26px" src="https://nextui.org/favicon.ico" />][nextui]
 [<img align="left" alt="nextauth" height="26px" width="26px" src="https://next-auth.js.org/img/logo/logo-xs.png" />][nextauth]
 [<img align="left" alt="turborepo" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_turbo.svg" />][turborepo]
+[<img align="left" alt="trpc" height="26px" width="26px" src="https://trpc.io/img/logo-no-text.png" />][trpc]
 [<img align="left" alt="pusher" height="26px" width="26px" src="https://pusher.com/favicon.ico" />][pusher]
 [<img align="left" alt="SocketIO" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socket]
-[<img align="left" alt="trpc" height="26px" width="26px" src="https://trpc.io/img/logo-no-text.png" />][trpc]
 [<img align="left" alt="planetscale" height="26px" width="26px" src="https://planetscale.com/favicon.svg" />][planetscale]
 [<img align="left" alt="Nestjs" height="26px" width="26px" src="https://www.prisma.io/favicon.ico">][prisma]
 [<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
@@ -86,7 +86,7 @@
 [prisma]: https://www.prisma.io/
 [planetscale]: https://planetscale.com/
 [pusher]: https://pusher.com/
-[jest]: https://planetscale.com/
+[jest]: https://jestjs.io/
 [turborepo]: https://turborepo.org/
 [vercel]: https://vercel.com/home
 [trpc]: https://trpc.io/
