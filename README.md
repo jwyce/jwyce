@@ -1,6 +1,6 @@
 ## Hey there, I'm Jared 👋
 
-### I'm a Full Stack Developer who loves React.js and GraphQL
+### I build things
 
 - 🌱 I’m currently learning Elixir
 - 🥅 2022 Goals: Contribute more to the open source community and spend more time on personal projects
