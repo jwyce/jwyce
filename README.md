@@ -1,6 +1,6 @@
 ## Hey there, I'm Jared 👋
 
-### I build things
+### I code sometimes
 
 - 🌱 I’m currently learning Elixir
 - 🥅 2022 Goals: Contribute more to the open source community and spend more time on personal projects
