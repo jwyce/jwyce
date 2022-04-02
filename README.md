@@ -34,7 +34,7 @@
 [<img align="left" alt="planetscale" height="26px" width="26px" src="https://planetscale.com/favicon.svg" />][planetscale]
 [<img align="left" alt="Nestjs" height="26px" width="26px" src="https://www.prisma.io/favicon.ico">][prisma]
 [<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
-[<img align="left" alt="docker" height="26px" width="26px" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" />][docker]
+[<img align="left" alt="docker" height="26px" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/eddd21641e769b1d4d8974834fb75166038b2e52/icons/docker.svg" />][docker]
 [<img align="left" alt="elixir" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_elixir.svg" />][elixir]
 [<img align="left" alt="jest" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_jest_snapshot.svg" />][jest]
 [<img align="left" alt="cypress" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_cypress.svg" />][cypress]
