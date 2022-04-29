@@ -3,8 +3,8 @@
 ### I code sometimes
 
 - 🌱 I’m currently learning Elixir and Rust
-- 🥅 2022 Goals: Contribute more to the open source community and spend more time on personal projects
-- 🗻 Fun fact: I'm super interested in Japanese culture and enjoy learning the language. 日本が興味深いだよ。
+- 🥅 2022 Goals: Contribute more to open source and spend time on personal projects
+- 🗻 Fun fact: I'm super fascinated by Japan and am currently learning the language. 頑張ってるよ。
 
 ### Spotify Playing 🎧
 
