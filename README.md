@@ -26,16 +26,13 @@
 [<img align="left" alt="vite" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/vite.svg" />][vite]
 [<img align="left" alt="Prisma" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/prisma.svg">][prisma]
 [<img align="left" alt="VIM" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_vim.svg" />][vim]
-[<img align="left" alt="reactquery" height="26px" width="26px" src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />][reactquery]
-[<img align="left" alt="docker" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/docker.svg" />][docker]
 [<img align="left" alt="vercel" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/vercel.svg" />][vercel]
-[<img align="left" alt="Nextjs" height="26px" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/eddd21641e769b1d4d8974834fb75166038b2e52/icons/next.svg">][nextjs]
 [<img align="left" alt="turborepo" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_turbo.svg" />][turborepo]
 [<img align="left" alt="jest" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_jest_snapshot.svg" />][jest]
 [<img align="left" alt="planetscale" height="26px" width="26px" src="https://planetscale.com/favicon.svg" />][planetscale]
-[<img align="left" alt="PostgreSQL" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
 
 
+<br/>
 <br/>
 <br/>
 
