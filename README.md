@@ -34,7 +34,7 @@
 [apollo]: https://www.apollographql.com/docs/
 [vscode]: https://code.visualstudio.com/
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-[ts]: https://www.typescriptlang.org/
+[ts]: https://www.typescriptlang.org/docs/
 [react]: https://beta.reactjs.org/
 [vim]: https://github.com/vim/vim
 [graphql]: https://graphql.org/
