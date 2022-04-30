@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Elixir and Rust
 - 🥅 2022 Goals: Contribute more to open source and spend time on personal projects
-- 🗻 Fun fact: I'm super fascinated by Japan and am currently learning the language. 頑張ってるよ。
+- 🗻 Fun fact: I'm super fascinated by Japan and currently learning the language. 頑張ってるよ。
 
 ### Spotify Playing 🎧
 
@@ -30,8 +30,6 @@
 [<img align="left" alt="VIM" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_vim.svg" />][vim]
 [<img align="left" alt="vitest" height="26px" width="26px" src="https://vitest.dev/logo.svg" />][vitest]
 [<img align="left" alt="turborepo" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_turbo.svg" />][turborepo]
-
-
 
 <br/>
 <br/>
