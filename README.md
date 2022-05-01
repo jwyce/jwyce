@@ -32,7 +32,7 @@
 [<img align="left" alt="turborepo" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_turbo.svg" />][turborepo]
 
 [apollo]: https://www.apollographql.com/docs/
-[vscode]: https://code.visualstudio.com/
+[vscode]: https://howivscode.com/jwyce
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 [ts]: https://www.typescriptlang.org/docs/
 [react]: https://beta.reactjs.org/
