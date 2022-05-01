@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Elixir and Rust
 - 🥅 2022 Goals: Contribute more to open source and spend time on personal projects
-- 🇯🇵 Fun fact: I've been learning Japanese for 3 years. 頑張ってるよ。
+- 🗻 Fun fact: I've been learning Japanese for 3 years. 頑張ってるよ。
 
 ### Spotify Playing 🎧
 
