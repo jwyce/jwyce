@@ -6,11 +6,11 @@
 - 🥅 2022 Goals: Contribute more to open source and spend time on personal projects
 - 🗻 Fun fact: I've been learning Japanese for 3 years. 頑張ってるよ。
 
-<!-- ### Spotify Playing 🎧
-
-[<img src="https://jwyce-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12169145527) -->
-
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/202248223333679104?hideTimestamp=true&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/202248223333679104)
+
+### Spotify 🎧
+
+[<img src="https://jwyce-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12169145527)
 
 ### Languages and Tools
 
