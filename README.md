@@ -1,13 +1,12 @@
 ### Hey, I'm Jared 👋
 React + Typescript nerd, lover of simple things that solve complex things.
 
-
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/202248223333679104?hideTimestamp=true&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/202248223333679104)
 
-### Last Played Spotify 🎧
+<!-- ### Last Played Spotify 🎧
 
 [<img src="https://jwyce-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12169145527)
-
+ -->
 ### Languages and Tools
 
 [<img align="left" alt="vscode" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_vscode.svg" />][vscode]
