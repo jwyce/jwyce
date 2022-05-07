@@ -1,7 +1,7 @@
 ### Hey, I'm Jared 👋
 React + Typescript nerd, lover of simple things that solve complex things.
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/202248223333679104?hideTimestamp=true&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/202248223333679104)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/202248223333679104?idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/202248223333679104)
 
 <!-- ### Last Played Spotify 🎧
 
