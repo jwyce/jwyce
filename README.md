@@ -6,7 +6,7 @@
 - 🥅 2022 Goals: Contribute more to open source and spend time on personal projects
 - 🗻 Fun fact: I've been learning Japanese for 3 years. 頑張ってるよ。
 
-### Spotify 🎧
+### Last Played Spotify 🎧
 
 [<img src="https://jwyce-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12169145527)
 
