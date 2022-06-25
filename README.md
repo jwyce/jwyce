@@ -33,7 +33,7 @@ React + Typescript nerd, lover of simple things that solve complex things.
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 [ts]: https://www.typescriptlang.org/docs/
 [react]: https://beta.reactjs.org/
-[vim]: https://github.com/vim/vim
+[vim]: https://neovim.io/
 [graphql]: https://graphql.org/
 [postgresql]: https://www.postgresql.org/
 [node]: https://nodejs.org/en/docs/
