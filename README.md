@@ -19,7 +19,7 @@ React + Typescript nerd, lover of simple things that solve complex things.
 [<img align="left" alt="apollo" height="26px" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/eddd21641e769b1d4d8974834fb75166038b2e52/icons/apollo.svg" />][apollo]
 [<img align="left" alt="node" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_node.svg" />][node]
 [<img align="left" alt="tailwind" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/tailwind.svg" />][tailwind]
-[<img align="left" alt="trpc" height="26px" width="26px" src="https://trpc.io/img/logo-no-text.svg" />][trpc]
+[<img align="left" alt="trpc" height="26px" width="26px" src="https://trpc.io/img/logo.svg" />][trpc]
 [<img align="left" alt="vercel" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/vercel.svg" />][vercel]
 [<img align="left" alt="vite" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/vite.svg" />][vite]
 [<img align="left" alt="prisma" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/prisma.svg">][prisma]
