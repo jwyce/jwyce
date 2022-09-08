@@ -11,7 +11,7 @@ React + Typescript nerd, lover of simple things that solve complex things.
 
 [<img align="left" alt="vscode" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_vscode.svg" />][vscode]
 [<img align="left" alt="typescript" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_typescript_official.svg" />][ts]
-[<img align="left" alt="elixir" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/elixir.svg" />][elixir]
+[<img align="left" alt="astro" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/ee4c07117bc14b45187c12dfb1a45a8c52e74681/icons/astro.svg" />][astro]
 [<img align="left" alt="rust" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/rust.svg" />][rust]
 [<img align="left" alt="react" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_reactjs.svg" />][react]
 [<img align="left" alt="react native" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_reactts.svg" />][reactnative]
@@ -40,7 +40,7 @@ React + Typescript nerd, lover of simple things that solve complex things.
 [docker]: https://www.docker.com/
 [nextjs]: https://nextjs.org/
 [reactnative]: https://reactnative.dev/
-[elixir]: https://elixirschool.com/en
+[astro]: https://astro.build/
 [reactquery]: https://react-query.tanstack.com/
 [rust]: https://doc.rust-lang.org/book/title-page.html
 [tailwind]: https://tailwindcss.com/
