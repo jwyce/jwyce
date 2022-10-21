@@ -23,7 +23,7 @@ React + Typescript nerd, lover of simple things that solve complex things.
 [<img align="left" alt="vercel" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/vercel.svg" />][vercel]
 [<img align="left" alt="vite" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/vite.svg" />][vite]
 [<img align="left" alt="prisma" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/prisma.svg">][prisma]
-[<img align="left" alt="planetscale" height="26px" width="26px" src="https://planetscale.com/favicon.svg" />][planetscale]
+[<img align="left" alt="planetscale" height="26px" width="26px" src="https://pbs.twimg.com/profile_images/1504919223168077836/RSsCSpKf_400x400.jpg" />][planetscale]
 [<img align="left" alt="vim" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_vim.svg" />][vim]
 [<img align="left" alt="vitest" height="26px" width="26px" src="https://vitest.dev/logo.svg" />][vitest]
 [<img align="left" alt="turborepo" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_turbo.svg" />][turborepo]
