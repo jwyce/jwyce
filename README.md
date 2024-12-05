@@ -20,7 +20,6 @@ React + Typescript nerd, lover of simple things that solve complex things.
 [<img align="left" alt="ocaml" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/refs/heads/master/icons/ocaml.svg" />][ocaml]
 [<img align="left" alt="react" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/master/icons/reactts.svg" />][react]
 [<img align="left" alt="svelte" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/refs/heads/master/icons/svelte.svg" />][svelte]
-[<img align="left" alt="nextjs" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/master/icons/nextconfig.svg" />][next]
 [<img align="left" alt="gql" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/master/icons/graphql.svg" />][graphql]
 [<img align="left" alt="react native" height="26px" width="26px" src="https://shopify.github.io/react-native-skia/img/logo.png" />][reactnative]
 [<img align="left" alt="tailwind" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/tailwind.svg" />][tailwind]
