@@ -11,43 +11,43 @@ React + Typescript nerd, lover of simple things that solve complex things.
 
 [<img align="left" alt="neovim" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/master/icons/nvim.svg" />][neovim]
 [<img align="left" alt="typescript" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_typescript_official.svg" />][ts]
-[<img align="left" alt="zod" height="26px" width="26px" src="https://zod.dev/logo.svg" />][zod]
-[<img align="left" alt="rust" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/rust.svg" />][rust]
-[<img align="left" alt="react" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/master/icons/reactts.svg" />][react]
-[<img align="left" alt="react native" height="26px" width="26px" src="https://shopify.github.io/react-native-skia/img/logo.png" />][reactnative]
-[<img align="left" alt="gql" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/master/icons/graphql.svg" />][graphql]
 [<img align="left" alt="node" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_node.svg" />][node]
+[<img align="left" alt="rust" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/rust.svg" />][rust]
+[<img align="left" alt="go" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/refs/heads/master/icons/go.svg" />][go]
+[<img align="left" alt="zig" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/refs/heads/master/icons/zig.svg" />][zig]
+[<img align="left" alt="elixir" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/refs/heads/master/icons/elixir.svg" />][elixir]
+[<img align="left" alt="gleam" height="26px" width="26px" src="https://gleam.run/images/lucy/lucy.svg" />][gleam]
+[<img align="left" alt="ocaml" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/refs/heads/master/icons/ocaml.svg" />][ocaml]
+[<img align="left" alt="react" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/master/icons/reactts.svg" />][react]
+[<img align="left" alt="svelte" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/refs/heads/master/icons/svelte.svg" />][svelte]
+[<img align="left" alt="nextjs" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/master/icons/nextconfig.svg" />][next]
+[<img align="left" alt="gql" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/master/icons/graphql.svg" />][graphql]
+[<img align="left" alt="react native" height="26px" width="26px" src="https://shopify.github.io/react-native-skia/img/logo.png" />][reactnative]
 [<img align="left" alt="tailwind" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/tailwind.svg" />][tailwind]
 [<img align="left" alt="trpc" height="26px" width="26px" src="https://trpc.io/img/logo.svg" />][trpc]
-[<img align="left" alt="astro" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/ee4c07117bc14b45187c12dfb1a45a8c52e74681/icons/astro.svg" />][astro]
-[<img align="left" alt="nextjs" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/master/icons/nextconfig.svg" />][next]
-[<img align="left" alt="vercel" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/vercel.svg" />][vercel]
-[<img align="left" alt="prisma" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/prisma.svg">][prisma]
-[<img align="left" alt="planetscale" height="26px" width="26px" src="https://pbs.twimg.com/profile_images/1504919223168077836/RSsCSpKf_400x400.jpg" />][planetscale]
+[<img align="left" alt="tanstack" height="26px" width="26px" src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" />][tanstack]
 [<img align="left" alt="vite" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/vite.svg" />][vite]
-[<img align="left" alt="vitest" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/master/icons/vitest.svg" />][vitest]
-[<img align="left" alt="turborepo" height="26px" width="26px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_turbo.svg" />][turborepo]
+[<img align="left" alt="zod" height="26px" width="26px" src="https://zod.dev/logo.svg" />][zod]
 
-[next]: https://nextjs.org/
-[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-[ts]: https://www.typescriptlang.org/docs/
-[react]: https://react.dev/
 [neovim]: https://github.com/jwyce/.dotfiles
-[graphql]: https://graphql.org/
-[sql]: https://planetscale.com/courses/mysql-for-developers/
+[ts]: https://www.typescriptlang.org/docs/
 [node]: https://nodejs.org/en/docs/
-[docker]: https://www.docker.com/
-[nextjs]: https://nextjs.org/
-[reactnative]: https://reactnative.dev/
-[astro]: https://astro.build/
-[reactquery]: https://tanstack.com/query/v5
 [rust]: https://doc.rust-lang.org/book/title-page.html
+[go]: https://go.dev/
+[elixir]: https://hexdocs.pm/elixir/introduction.html
+[zig]: https://ziglang.org/
+[ocaml]: https://ocaml.org/
+[gleam]: https://gleam.run/
+
+[react]: https://react.dev/
+[svelte]: https://svelte.dev/
+[next]: https://nextjs.org/
+
+[graphql]: https://graphql.org/
+[reactnative]: https://reactnative.dev/
+
 [tailwind]: https://tailwindcss.com/
-[prisma]: https://www.prisma.io/
-[planetscale]: https://planetscale.com/
-[turborepo]: https://turborepo.org/
-[vercel]: https://vercel.com/home
 [vite]: https://vitejs.dev/
+[tanstack]: https://tanstack.com/
 [trpc]: https://trpc.io/
-[vitest]: https://vitest.dev/
 [zod]: https://zod.dev
