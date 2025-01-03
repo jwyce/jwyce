@@ -21,7 +21,7 @@ React + Typescript nerd, lover of simple things that solve complex things.
 [<img align="left" alt="react" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/master/icons/reactts.svg" />][react]
 [<img align="left" alt="svelte" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/refs/heads/master/icons/svelte.svg" />][svelte]
 [<img align="left" alt="gql" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/master/icons/graphql.svg" />][graphql]
-[<img align="left" alt="react native" height="26px" width="26px" src="https://shopify.github.io/react-native-skia/img/logo.png" />][reactnative]
+[<img align="left" alt="react native" height="26px" width="26px" src="https://raw.githubusercontent.com/Shopify/react-native-skia/refs/heads/main/apps/docs/static/img/logo.png" />][reactnative]
 [<img align="left" alt="tailwind" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/tailwind.svg" />][tailwind]
 [<img align="left" alt="trpc" height="26px" width="26px" src="https://trpc.io/img/logo.svg" />][trpc]
 [<img align="left" alt="tanstack" height="26px" width="26px" src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" />][tanstack]
