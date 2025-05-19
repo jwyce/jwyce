@@ -26,7 +26,7 @@ React + Typescript nerd, lover of simple things that solve complex things.
 [<img align="left" alt="trpc" height="26px" width="26px" src="https://trpc.io/img/logo.svg" />][trpc]
 [<img align="left" alt="tanstack" height="26px" width="26px" src="https://svgl.app/library/tanstack.svg" />][tanstack]
 [<img align="left" alt="vite" height="26px" width="26px" src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/87232606252d2dba1dac3c86583c14d8c09b5574/icons/vite.svg" />][vite]
-[<img align="left" alt="zod" height="26px" width="26px" src="https://zod.dev/logo.svg" />][zod]
+[<img align="left" alt="zod" height="26px" width="26px" src="https://zod.dev/logo/logo-glow.png" />][zod]
 
 [neovim]: https://github.com/jwyce/.dotfiles
 [ts]: https://www.typescriptlang.org/docs/
